@@ -1,3 +1,5 @@
+I just smooshed two scripts into one, I do not own any rights to these.
+
 # qb-recyclejob
 Recycling Job For QB-Core
 
